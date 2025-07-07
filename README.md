@@ -4,8 +4,11 @@
 
 A real-time monitoring system for IV fluid levels using ESP32 microcontroller and Blynk IoT platform.
 
-![IoT IV Bag Monitoring Device](device.jpg)  
-*Figure 1: Hardware prototype of the IV bag monitoring system showing ESP32, load cell, and LCD display*
+<p align="center">
+  <img src="device.jpg" width="400">
+  <br>
+  <em>Figure 1: Hardware prototype of the IV bag monitoring system showing ESP32, load cell, and LCD display</em>
+</p>
 
 ## Project Overview
 

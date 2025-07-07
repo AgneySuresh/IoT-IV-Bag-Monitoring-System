@@ -59,8 +59,8 @@ This system provides continuous monitoring of IV fluid levels in medical setting
 
 ## Contributors
 
-- **Agney Suresh (NSS21EC012)**
-- **Abijith T (NSS21EC008)**
+- [**Agney Suresh**](https://github.com/AgneySuresh)
+- [**Abijith T**](https://github.com/AbijithT2003)
 - **Abhiram Bhaskaran (NSS21EC006)**
 
 Under guidance of Prof. Reshmi S, NSS College of Engineering Palakkad

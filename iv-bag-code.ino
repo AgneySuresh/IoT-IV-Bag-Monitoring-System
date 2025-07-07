@@ -12,8 +12,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 HX711 scale;
 #define BLYNK_PRINT Serial
 char auth[] = "po-ahucLZLBVnCyQ9SXxojDM_vcBW3-s";
-char ssid[] = "testwifi";
-char pass[] = "2468013579";
+char ssid[] = "wifi_name";
+char pass[] = "wifi_password";
 int liter;
 int val;
 float weight; 
